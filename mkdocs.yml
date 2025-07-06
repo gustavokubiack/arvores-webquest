@@ -1,0 +1,29 @@
+site_name: WebQuest - Árvores
+theme:
+  name: material
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.tabs
+
+nav:
+  - Página Inicial: index.md
+  - Apresentação: apresentacao.md
+  - Introdução: 
+    - Conceito Geral: arvores/conceito_geral.md
+    - Árvores Binárias: arvores/arvores_binarias.md
+    - Árvores Binárias de Busca: arvores/arvores_binarias_busca.md
+    - Árvores de Expressão: arvores/arvores_expressao.md
+  - Tarefa: tarefa.md
+  - Processo: processo.md
+  - Fontes de Informação: fontes_de_informacao.md
+  - Avaliação: avaliacao.md
+  - Conclusão: conclusao.md
+  - Créditos: creditos.md
+
+extra_css:
+  - css/extra.css
+
+extra:
+  generator: false
