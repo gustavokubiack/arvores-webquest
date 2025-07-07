@@ -1,6 +1,7 @@
-site_name: WebQuest - Árvores
+site_name: Árvores
 theme:
   name: material
+  language: pt
   features:
     - navigation.top
     - search.suggest
@@ -10,11 +11,7 @@ theme:
 nav:
   - Página Inicial: index.md
   - Apresentação: apresentacao.md
-  - Introdução: 
-    - Conceito Geral: arvores/conceito_geral.md
-    - Árvores Binárias: arvores/arvores_binarias.md
-    - Árvores Binárias de Busca: arvores/arvores_binarias_busca.md
-    - Árvores de Expressão: arvores/arvores_expressao.md
+  - Introdução: introducao.md
   - Tarefa: tarefa.md
   - Processo: processo.md
   - Fontes de Informação: fontes_de_informacao.md
