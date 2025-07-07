@@ -5,7 +5,7 @@ Essa WebQuest foi desenvolvida por um grupo de estudantes do curso de Bacharelad
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
 <div style="text-align: center;">
-  <img src="/media/gustavo.jpeg" alt="Participante 2" width="150" style="border-radius: 8px;">
+  <img src="../media/gustavo.jpeg" alt="Participante 2" width="150" style="border-radius: 8px;">
   <p><strong>Gustavo Kubiack</strong><br>Estudante<br>
     <a href="https://www.linkedin.com/in/gustavokubiack/" target="_blank">LinkedIn</a>
   </p>
